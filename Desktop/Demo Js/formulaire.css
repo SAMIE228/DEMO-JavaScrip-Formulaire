@@ -1,0 +1,51 @@
+
+body{
+    background-color: #A9D7E9;
+}
+h1{
+    text-align: center;
+}
+form{
+    margin-top: 5%;
+    margin-left: 25%;
+    margin-bottom: 10%;
+    margin-right: 25%;
+    background-color: #F3F3F3;
+    border-radius: 15px;
+    padding: 20px  ;  
+   
+    
+}
+#bouton { 
+  background-color:  #6BA2CE;
+  color: white;
+  font-size: 20px;
+  border-radius: 7px;
+  height: 50px;
+  width: 100px;
+  border: 2px solid;
+  
+}
+.bloc{
+    display: flex;
+    padding: 10px;
+}
+.send{
+    text-align: center;
+    color: white;
+}
+
+.input{
+    flex-basis: 50%;
+    margin-left: 10px;
+}
+.label{
+    flex-basis: 50%;
+    text-align: right;
+    margin-right: 10px;
+   
+}
+.reponse{
+    height: 20px;
+    text-align: center;
+}
